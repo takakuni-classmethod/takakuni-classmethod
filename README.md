@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/takakuni/takakuni-classmethod/">
     <img src="https://komarev.com/ghpvc/?username=takakuni-classmethod" alt="takakuni-classmethod" />
   </a>
-  <a href="http://twitter.com/takakuni_">
-    <img height="20" src="https://img.shields.io/twitter/follow/takakuni_?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
 
 [![Takakuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=takakuni-classmethod&theme=swift)](https://github.com/takakuni-classmethod/github-readme-stats)
