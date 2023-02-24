@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://github.com/takakuni/takakuni-classmethod/">
-    <img src="https://komarev.com/ghpvc/?username=takakuni-classmethod" alt="takakuni-classmethod" />
-  </a>
-</p>
-
 [![Takakuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=takakuni-classmethod&theme=swift)](https://github.com/takakuni-classmethod/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takakuni-classmethod)](https://github.com/takakuni-classmethod/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takakuni-classmethod&theme=vue)
-
-
